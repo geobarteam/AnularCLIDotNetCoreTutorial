@@ -1,0 +1,8 @@
+C:\dev\AngularDotNetCore\bin\Debug\netcoreapp1.1\AngularDotNetCore.deps.json
+C:\dev\AngularDotNetCore\bin\Debug\netcoreapp1.1\AngularDotNetCore.runtimeconfig.json
+C:\dev\AngularDotNetCore\bin\Debug\netcoreapp1.1\AngularDotNetCore.runtimeconfig.dev.json
+C:\dev\AngularDotNetCore\bin\Debug\netcoreapp1.1\AngularDotNetCore.dll
+C:\dev\AngularDotNetCore\bin\Debug\netcoreapp1.1\AngularDotNetCore.pdb
+C:\dev\AngularDotNetCore\obj\Debug\netcoreapp1.1\AngularDotNetCore.AssemblyInfo.cs
+C:\dev\AngularDotNetCore\obj\Debug\netcoreapp1.1\AngularDotNetCore.dll
+C:\dev\AngularDotNetCore\obj\Debug\netcoreapp1.1\AngularDotNetCore.pdb
