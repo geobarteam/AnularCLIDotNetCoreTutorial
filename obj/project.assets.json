@@ -9619,16 +9619,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\dev\\AngularDotNetCore\\AngularDotNetCore.csproj",
+      "projectUniqueName": "C:\\dev\\AngularDotNetCore\\AngularDotNetCore.csproj",
       "projectName": "AngularDotNetCore",
-      "projectPath": "c:\\dev\\AngularDotNetCore\\AngularDotNetCore.csproj",
-      "outputPath": "c:\\dev\\AngularDotNetCore\\obj\\",
+      "projectPath": "C:\\dev\\AngularDotNetCore\\AngularDotNetCore.csproj",
+      "outputPath": "C:\\dev\\AngularDotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/AngularDotNetCore.dll": "c:\\dev\\AngularDotNetCore\\bin\\placeholder\\netcoreapp1.1\\AngularDotNetCore.dll"
+        "lib/netcoreapp1.1/AngularDotNetCore.dll": "C:\\dev\\AngularDotNetCore\\bin\\placeholder\\netcoreapp1.1\\AngularDotNetCore.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
